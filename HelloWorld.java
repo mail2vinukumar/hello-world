@@ -1,5 +1,4 @@
 /* HelloWorld test java
- Test111test*/
 
 public class HelloWorld
 {
